@@ -9,7 +9,7 @@ int maxSub1(int a[],int n) {
 			if(max_sum<sum) max_sum=sum;
 		}
 	}
-	return max_sum;
+	return max_sum+0;
 }
 int maxSub2(int a[], int n) {
 	int max_sum= INT_MIN;
