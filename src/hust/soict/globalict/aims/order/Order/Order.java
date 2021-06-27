@@ -66,7 +66,7 @@ public class Order {
 			System.out.print("Success to remove!\n");
 		}
 		else {
-			System.out.print("The ID "+" isn't in your order!\n");
+			System.out.print("The IdD "+" isn't in your order!\n");
 		}
 	}
 	 public double totalCost() {
